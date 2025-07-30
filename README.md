@@ -1,2 +1,1 @@
-# Zippy
-Zippy ek macOS app hai jo drag‑and‑drop ya menu se media files ko convert, frames extract, streams nikaal aur downloads manage karke instant notification deta hai।
+Zippy is a macOS app that converts media files, extracts frames, pulls streams, and manages downloads via drag-and-drop or menu, providing instant notifications.
